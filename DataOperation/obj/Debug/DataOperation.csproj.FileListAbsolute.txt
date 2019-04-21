@@ -1,0 +1,14 @@
+E:\Important File\Programs\Visual Studio\DataOperation\DataOperation\bin\Debug\DataOperation.exe.config
+E:\Important File\Programs\Visual Studio\DataOperation\DataOperation\bin\Debug\Database.mdf
+E:\Important File\Programs\Visual Studio\DataOperation\DataOperation\bin\Debug\Database_log.ldf
+E:\Important File\Programs\Visual Studio\DataOperation\DataOperation\bin\Debug\DataOperation.exe
+E:\Important File\Programs\Visual Studio\DataOperation\DataOperation\bin\Debug\DataOperation.pdb
+E:\Important File\Programs\Visual Studio\DataOperation\DataOperation\obj\Debug\DataOperation.csprojResolveAssemblyReference.cache
+E:\Important File\Programs\Visual Studio\DataOperation\DataOperation\obj\Debug\DataOperation.Form1.resources
+E:\Important File\Programs\Visual Studio\DataOperation\DataOperation\obj\Debug\DataOperation.Properties.Resources.resources
+E:\Important File\Programs\Visual Studio\DataOperation\DataOperation\obj\Debug\DataOperation.csproj.GenerateResource.Cache
+E:\Important File\Programs\Visual Studio\DataOperation\DataOperation\obj\Debug\DataOperation.exe
+E:\Important File\Programs\Visual Studio\DataOperation\DataOperation\obj\Debug\DataOperation.pdb
+E:\Important File\Programs\C#\SWE-211_(SQL-Server)\DataOperation\DataOperation\bin\Debug\DataOperation.exe.config
+E:\Important File\Programs\C#\SWE-211_(SQL-Server)\DataOperation\DataOperation\obj\Debug\DataOperation.exe
+E:\Important File\Programs\C#\SWE-211_(SQL-Server)\DataOperation\DataOperation\obj\Debug\DataOperation.pdb
